@@ -1,0 +1,2 @@
+var token = '';
+var userSD = {};
